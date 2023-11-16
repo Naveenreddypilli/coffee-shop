@@ -1,6 +1,6 @@
-# Laracoffee
+# coffee
 
-Laracoffee is a web application built using the Laravel framework that allows users to browse and order coffee products online.
+coffee is a web application built using the Laravel framework that allows users to browse and order coffee products online.
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@ Laracoffee is a web application built using the Laravel framework that allows us
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [UI](#ui)
 - [In Summary](#in-summary)
 
@@ -35,7 +34,7 @@ Laracoffee is a web application built using the Laravel framework that allows us
 - Order History: Users can review their order history.
 ## Installation
 
-To run Laracoffee locally, follow these steps:
+To run coffee locally, follow these steps:
 
 1. Clone this repository:
 
@@ -44,7 +43,7 @@ To run Laracoffee locally, follow these steps:
    ```
 2. Change to the project directory
     ```bash
-    cd laracoffee
+    cd coffee
     ```
 3. Install the project dependencies
     ```bash
@@ -88,8 +87,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to your fork: `git push origin feature-name`.
 5. Create a pull request on the original repository.
 
-## License
-This project is licensed under the [MIT License](https://github.com/snykk/Laracoffee/blob/master/LICENSE).
+
 
 ## UI
 
@@ -144,3 +142,4 @@ This project is licensed under the [MIT License](https://github.com/snykk/Laraco
 
 ## In Summary
  Feel free to explore the application and give it a try yourself. If you have any questions or encounter any issues, please don't hesitate to reach out. Your feedback is greatly appreciated. Happy exploring!!!"# coffee-shop" 
+"# coffee-shop" 
